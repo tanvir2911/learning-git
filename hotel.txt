@@ -1,0 +1,3 @@
+#this is hotel.txt
+
+CursedFloyd says this hotel is amazing
